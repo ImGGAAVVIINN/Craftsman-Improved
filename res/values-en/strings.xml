@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="webflow_header">Microsoft account</string>
+    <string name="authentication_button_previous">previous</string>
+    <string name="authentication_button_next">next</string>
+    <string name="authentication_button_finish">finish</string>
+    <string name="app_market">en</string>
+    <string name="user_tile_image_content_description">"The user's image."</string>
+    <string name="account_menu_add_account">Add an account</string>
+    <string name="account_picker_menu_dismiss">Close</string>
+    <string name="account_picker_list_header">Choose one</string>
+    <string name="account_picker_list_body">Which account do you want to sign in to this app with?</string>
+    <string name="sign_out_dialog_title">Do you want to sign out of this app?</string>
+    <string name="sign_out_dialog_checkbox">Sign out of all Microsoft apps using %1$s</string>
+    <string name="sign_out_dialog_button_sign_out">Sign out</string>
+    <string name="sign_out_dialog_button_cancel">Cancel</string>
+    <string name="account_setting_up_header">"You're almost done"</string>
+    <string name="account_setting_up">Please wait while we finish adding your account.</string>
+    <string name="error_header_generic_failure">Something went wrong</string>
+    <string name="error_body_generic_failure">Please try again.</string>
+    <string name="error_overlay_no_network">You have no internet connection</string>
+    <string name="error_header_server_network_error">We are having problems connecting to the server</string>
+</resources>
