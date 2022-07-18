@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="webflow_header">Microsoft 帳戶</string>
+    <string name="authentication_button_previous">上一步</string>
+    <string name="authentication_button_next">下一步</string>
+    <string name="authentication_button_finish">結束</string>
+    <string name="app_market">zh-hant</string>
+    <string name="user_tile_image_content_description">使用者的影像。</string>
+    <string name="account_menu_add_account">新增帳戶</string>
+    <string name="account_picker_menu_dismiss">關閉</string>
+    <string name="account_picker_list_header">選擇一個帳戶</string>
+    <string name="account_picker_list_body">您想用哪個帳戶登入此應用程式?</string>
+    <string name="sign_out_dialog_title">您想要登出此應用程式嗎?</string>
+    <string name="sign_out_dialog_checkbox">登出所有使用 %1$s 的 Microsoft 應用程式</string>
+    <string name="sign_out_dialog_button_sign_out">登出</string>
+    <string name="sign_out_dialog_button_cancel">取消</string>
+    <string name="account_setting_up_header">即將完成</string>
+    <string name="account_setting_up">我們正在結束新增您的帳戶，請稍候...</string>
+    <string name="error_header_generic_failure">發生錯誤</string>
+    <string name="error_body_generic_failure">請再試一次。</string>
+    <string name="error_overlay_no_network">您沒有網路連線</string>
+    <string name="error_header_server_network_error">連線到伺服器時發生問題</string>
+</resources>

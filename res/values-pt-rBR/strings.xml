@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="webflow_header">Conta da Microsoft</string>
+    <string name="authentication_button_previous">anterior</string>
+    <string name="authentication_button_next">próximo</string>
+    <string name="authentication_button_finish">concluir</string>
+    <string name="app_market">pt-br</string>
+    <string name="user_tile_image_content_description">A imagem do usuário.</string>
+    <string name="account_menu_add_account">Adicionar conta</string>
+    <string name="account_picker_menu_dismiss">Fechar</string>
+    <string name="account_picker_list_header">Escolher uma</string>
+    <string name="account_picker_list_body">Com que conta você quer entrar neste aplicativo?</string>
+    <string name="sign_out_dialog_title">Você quer sair deste aplicativo?</string>
+    <string name="sign_out_dialog_checkbox">Sair de todos os aplicativos da Microsoft usando %1$s</string>
+    <string name="sign_out_dialog_button_sign_out">Sair</string>
+    <string name="sign_out_dialog_button_cancel">Cancelar</string>
+    <string name="account_setting_up_header">Você está quase pronto</string>
+    <string name="account_setting_up">Aguarde enquanto terminamos de adicionar sua conta.</string>
+    <string name="error_header_generic_failure">Houve algum problema</string>
+    <string name="error_body_generic_failure">Tente novamente.</string>
+    <string name="error_overlay_no_network">Você não tem nenhuma conexão com a Internet</string>
+    <string name="error_header_server_network_error">Não estamos conseguindo conectar ao servidor</string>
+</resources>

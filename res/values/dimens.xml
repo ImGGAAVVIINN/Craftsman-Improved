@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginSmall">3.2999878dip</dimen>
+    <dimen name="marginMedium">10.599976dip</dimen>
+    <dimen name="marginLarge">16.0dip</dimen>
+    <dimen name="marginXLarge">22.0dip</dimen>
+    <dimen name="marginFooter">4.0dip</dimen>
+    <dimen name="paddingPopupMessageSmall">8.699982dip</dimen>
+    <dimen name="paddingPopupMessageMedium">16.0dip</dimen>
+    <dimen name="paddingPopupMessageLarge">27.299988dip</dimen>
+    <dimen name="paddingPopupMessageParagraph">20.0dip</dimen>
+    <dimen name="paddingPopupMessageContentMaxWidth">448.0dip</dimen>
+    <dimen name="menuMarginRight">6.5999756dip</dimen>
+    <dimen name="menuMarginTopBottom">2.0dip</dimen>
+    <dimen name="menuHeight">17.299988dip</dimen>
+    <dimen name="menuWidth">4.5dip</dimen>
+    <dimen name="buttonHeight">32.0dip</dimen>
+    <dimen name="buttonBorder">2.0dip</dimen>
+    <dimen name="userTile">40.0dip</dimen>
+    <dimen name="accountPickerMargin">8.0dip</dimen>
+    <dimen name="maxAccountPickerHeight">450.0dip</dimen>
+    <dimen name="maxAccountPickerWidth">300.0dip</dimen>
+    <dimen name="xbid_header_image_diameter">60.0dip</dimen>
+    <dimen name="xbid_body_image_diameter">120.0dip</dimen>
+    <dimen name="xbid_margin_body_standard">5.0dip</dimen>
+    <dimen name="xbid_body_padding_horizontal">12.0dip</dimen>
+    <dimen name="xbid_body_padding_vertical">12.0dip</dimen>
+    <dimen name="xbid_margin_button">2.0dip</dimen>
+    <dimen name="xbid_margin_button_top">20.0dip</dimen>
+    <dimen name="xbid_bg_width">200.0dip</dimen>
+    <dimen name="xbid_bg_height">20.0dip</dimen>
+    <dimen name="xbid_bg_stroke_width">1.0dip</dimen>
+</resources>
