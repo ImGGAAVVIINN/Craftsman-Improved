@@ -1,5 +1,5 @@
 !!brut.androlib.meta.MetaInfo
-apkFileName: Craftsman+_v1.apk
+apkFileName: Craftsman+_v2.apk
 compressionType: false
 doNotCompress:
 - resources.arsc
@@ -433,5 +433,5 @@ usesFramework:
   tag: null
 version: 2.6.0
 versionInfo:
-  versionCode: '11'
-  versionName: 1.9.214
+  versionCode: '12'
+  versionName: 1.9.215

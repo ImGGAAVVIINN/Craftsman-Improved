@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 
 Name: AndroidManifest.xml
-SHA1-Digest: qHdJ8gwlmFArdw88eybjBtDHymo=
+SHA1-Digest: kXbO3601fEatUN3KN7hvr/KXiS4=
 
 Name: assets/audience_network.dex
 SHA1-Digest: 2Pt6OrUSp06+o5Hhgw8zB/QgY5Q=
@@ -1543,22 +1543,22 @@ Name: assets/images/gui/background.png
 SHA1-Digest: 714eHlW31LmfP3yH+bkpRJ0euYE=
 
 Name: assets/images/gui/background/panorama_0.png
-SHA1-Digest: 9lj2VtvobA22O4DY/EghmPR4yEU=
+SHA1-Digest: 6nVVt94yl8wuFBoJ20ob42D2FTE=
 
 Name: assets/images/gui/background/panorama_1.png
-SHA1-Digest: Fr07nGpTgupXenu6rg6Hi/j3bBg=
+SHA1-Digest: Nx6lMlq2VErsl8tC4omUNoA9WCI=
 
 Name: assets/images/gui/background/panorama_2.png
-SHA1-Digest: DraebFTRDGVx/zeZONQMlXCaDlM=
+SHA1-Digest: SDuyid6SVgQlXPuOEVQLtmO6l7M=
 
 Name: assets/images/gui/background/panorama_3.png
-SHA1-Digest: vfYawcOcXkeyqC4N+gQiUmWiQZw=
+SHA1-Digest: dATDxDDC4+mCLuXUEyDTQ/Mv/9A=
 
 Name: assets/images/gui/background/panorama_4.png
-SHA1-Digest: CZRjgxTRebcF5omtY16K24j2mvg=
+SHA1-Digest: PAV+SpJHRyeJYh3TrFtRgwvaqWc=
 
 Name: assets/images/gui/background/panorama_5.png
-SHA1-Digest: 6prktRlj8sVly3ryRe/t+g37AsU=
+SHA1-Digest: fjnx/sLHidZWfwhw1y/tQxfwvDU=
 
 Name: assets/images/gui/bg32.png
 SHA1-Digest: ZkAPZizL+4k4PyGAeIiXtOaZ4GY=
@@ -1573,7 +1573,7 @@ Name: assets/images/gui/default_world.png
 SHA1-Digest: 8nExk2Ps1XPQh957gGs3w2UiFnU=
 
 Name: assets/images/gui/enchanting_table.png
-SHA1-Digest: f0aa9SEnZV7X32Q0uLHVvUAEGG0=
+SHA1-Digest: K5yxWyEcsadlSSPGGZ7x0XTg21I=
 
 Name: assets/images/gui/gui.png
 SHA1-Digest: LSbD9Zvn9AhnFwuM1d6w0V+azu4=
@@ -1627,10 +1627,10 @@ Name: assets/images/gui/newgui/Indent.png
 SHA1-Digest: 8mFbD5BuuvbTUcjBuQfImgR3i0U=
 
 Name: assets/images/gui/newgui/Language16.png
-SHA1-Digest: J9iMKwXGoGPmgVWJUzP3hhm3ZTQ=
+SHA1-Digest: Y534LxSYatyTxYaJdb8PvG0Y714=
 
 Name: assets/images/gui/newgui/Language18.png
-SHA1-Digest: G3O1d7YG+688S/XsHQ5p5HGw73E=
+SHA1-Digest: uqXcbOzVlVZwXfbx5BIA/3dy9lI=
 
 Name: assets/images/gui/newgui/LeftTabFront.png
 SHA1-Digest: OCRwFuz/hcXc/8Qc4aKTK5txmaY=
@@ -1864,13 +1864,13 @@ Name: assets/images/gui/newgui/check2.png
 SHA1-Digest: PkTGt5K+EEFyfa1euIvVPgD2vMI=
 
 Name: assets/images/gui/newgui/classic-button-hover.png
-SHA1-Digest: lEMsU7025gZQAu2dCK4YJ8pPMpA=
+SHA1-Digest: mMhC8Wu2hj52tRmJUVTYovKxJ7w=
 
 Name: assets/images/gui/newgui/classic-button-pressed.png
-SHA1-Digest: wL2QskwqdRm20zHkbvP61GVmk10=
+SHA1-Digest: mnb1epgIS0ej1MBHZHP81paBXgg=
 
 Name: assets/images/gui/newgui/classic-button.png
-SHA1-Digest: w4YOX+EzjFra2J1Wgr1h1vjCiNk=
+SHA1-Digest: i+ntW9gKrVqjuUuT1CCSyEY0s28=
 
 Name: assets/images/gui/newgui/dialog-background-atlas.png
 SHA1-Digest: z/S12Z2IPNzb4ZAT9SzvuQ1mMvs=
@@ -2042,22 +2042,22 @@ Name: assets/images/gui/purpleBorder.png
 SHA1-Digest: w8YYvsrC7LiAffN+bRLgm/mc2BI=
 
 Name: assets/images/gui/spritesheet.png
-SHA1-Digest: N7yclahu5h9y7KXRBuFd0kRk/uE=
+SHA1-Digest: Mlcm5kicoL0BLVhA2/TrLhRijJw=
 
 Name: assets/images/gui/spritesheet2.png
 SHA1-Digest: wXCsknef2YAPv2PgsY0appNkgYk=
 
 Name: assets/images/gui/spritesheet_removeme.png
-SHA1-Digest: GPW1/jt5oFaFdqUCSMxoYihHONs=
+SHA1-Digest: BpsMq8LS3FNGr52XG4q2qoPLXY4=
 
 Name: assets/images/gui/title.png
-SHA1-Digest: wQxyMoKZK4hFjwewHt9Omjb2TYI=
+SHA1-Digest: 6ytYGjsc/fNyUpH/xBRfIhWVHx4=
 
 Name: assets/images/gui/titleEdu.png
-SHA1-Digest: Kh6PrVnlbiv/9B8nTGDXGliPYFA=
+SHA1-Digest: Mh6hnAtLMhzSaN+8RXygXmjVRrc=
 
 Name: assets/images/gui/titleOriginal.png
-SHA1-Digest: b6p7+zGVUm4gpq7831JQIWLRnM4=
+SHA1-Digest: CPSHthEjzELDMW1dH9YOJ2EKVDY=
 
 Name: assets/images/gui/titleVR.png
 SHA1-Digest: cHKS3Eomypp3ZnGkJEf1QeU4oIU=
@@ -2843,7 +2843,7 @@ Name: assets/images/startup.images
 SHA1-Digest: pLSYZg6btuf6CRheIDED8CiULJk=
 
 Name: assets/images/terrain-atlas.tga
-SHA1-Digest: RB67I7F9WPO/Z91pX+8PZVaMVNY=
+SHA1-Digest: nubWyisc0/6e8uVg2RofQ3qHMNo=
 
 Name: assets/images/terrain-atlas_mip0.tga
 SHA1-Digest: /8K5DNntdsvc4CNgmONHPukq/VQ=
@@ -4508,7 +4508,7 @@ Name: assets/ui/xbl_login_screen.json
 SHA1-Digest: vWk+iq7vI/s0fRWcfuOp8gLgH8E=
 
 Name: classes.dex
-SHA1-Digest: T7exIUI7eKt/okGgrdeDSductZU=
+SHA1-Digest: v+Yr0C8FOjjjoeqzh4RdlLTwoz4=
 
 Name: lib/armeabi-v7a/libfmod.so
 SHA1-Digest: ixVPHgE1n0wr6g8bE1RRh5GYNWk=
@@ -4522,136 +4522,136 @@ SHA1-Digest: CcFEJKzBpQUpF9Zg0Af63D2Fug0=
 Name: res/color/button_text.xml
 SHA1-Digest: Ce3GJ5nNK8dvFpH6esoQdsLjqW0=
 
-Name: res/drawable-hdpi-v4/icon.png
+Name: res/drawable-hdpi/icon.png
 SHA1-Digest: 4f5hyR/DozpInA26gxdFFbbm//0=
 
-Name: res/drawable-hdpi-v4/iconvr.png
+Name: res/drawable-hdpi/iconvr.png
 SHA1-Digest: 4f5hyR/DozpInA26gxdFFbbm//0=
 
-Name: res/drawable-hdpi-v4/msa_add_icon.png
+Name: res/drawable-hdpi/msa_add_icon.png
 SHA1-Digest: g0eUQ6gTmBAXXDe+6STwrnnk5+g=
 
-Name: res/drawable-hdpi-v4/msa_close_icon.png
+Name: res/drawable-hdpi/msa_close_icon.png
 SHA1-Digest: sBrw2TNSP2cj8nil7z7zOG1amQw=
 
-Name: res/drawable-hdpi-v4/msa_default_user_tile.png
+Name: res/drawable-hdpi/msa_default_user_tile.png
 SHA1-Digest: qeUBiKAH5GzkfOQbXbCMmNQf690=
 
-Name: res/drawable-hdpi-v4/msa_overflow_menu.png
+Name: res/drawable-hdpi/msa_overflow_menu.png
 SHA1-Digest: CzeJygpi1WkDTp7IV0p2fHmqiDM=
 
-Name: res/drawable-hdpi-v4/xbid_gamerscore.png
+Name: res/drawable-hdpi/xbid_gamerscore.png
 SHA1-Digest: cDqpPSempBbvevCxugDZ4UqDnes=
 
-Name: res/drawable-hdpi-v4/xbid_search.png
+Name: res/drawable-hdpi/xbid_search.png
 SHA1-Digest: LrK7MacVl8mYaMay4SpT30SATxs=
 
-Name: res/drawable-hdpi-v4/xbid_x_icon.png
+Name: res/drawable-hdpi/xbid_x_icon.png
 SHA1-Digest: duPvzOgPx03e97YKFVy503Zn5EU=
 
-Name: res/drawable-ldpi-v4/icon.png
+Name: res/drawable-ldpi/icon.png
 SHA1-Digest: rgexddGKasi+2+CsNo5Y7bVwOaI=
 
-Name: res/drawable-ldpi-v4/iconvr.png
+Name: res/drawable-ldpi/iconvr.png
 SHA1-Digest: rgexddGKasi+2+CsNo5Y7bVwOaI=
 
-Name: res/drawable-ldpi-v4/msa_ms_logo.png
+Name: res/drawable-ldpi/msa_ms_logo.png
 SHA1-Digest: dZUjSNzo57lwxzIRhsXVMen7vuw=
 
-Name: res/drawable-mdpi-v4/icon.png
+Name: res/drawable-mdpi/icon.png
 SHA1-Digest: tEgC8o/gWr+6BZzcdDoHZ6vA9ss=
 
-Name: res/drawable-mdpi-v4/iconvr.png
+Name: res/drawable-mdpi/iconvr.png
 SHA1-Digest: tEgC8o/gWr+6BZzcdDoHZ6vA9ss=
 
-Name: res/drawable-mdpi-v4/msa_add_icon.png
+Name: res/drawable-mdpi/msa_add_icon.png
 SHA1-Digest: wF1+QRL2MG4ksZeC8NpfVU7Dbok=
 
-Name: res/drawable-mdpi-v4/msa_close_icon.png
+Name: res/drawable-mdpi/msa_close_icon.png
 SHA1-Digest: guCgS84vaM7/ZUx43JH/G9N2UfE=
 
-Name: res/drawable-mdpi-v4/msa_default_user_tile.png
+Name: res/drawable-mdpi/msa_default_user_tile.png
 SHA1-Digest: Gjcz9R0Zs2H2g39wCUXv6UBhmV4=
 
-Name: res/drawable-mdpi-v4/msa_ms_logo.png
+Name: res/drawable-mdpi/msa_ms_logo.png
 SHA1-Digest: sPwGyC2xR8307YxHQ2dfhGmIh3o=
 
-Name: res/drawable-mdpi-v4/msa_overflow_menu.png
+Name: res/drawable-mdpi/msa_overflow_menu.png
 SHA1-Digest: vmxeiUF7db5mqUScNZCtlt6s2Rg=
 
-Name: res/drawable-mdpi-v4/xbid_gamerscore.png
+Name: res/drawable-mdpi/xbid_gamerscore.png
 SHA1-Digest: jYlS/lyXCeYS5O2pfZmR/O/R92E=
 
-Name: res/drawable-mdpi-v4/xbid_search.png
+Name: res/drawable-mdpi/xbid_search.png
 SHA1-Digest: 6fPYqwQdg+FZSTrPa+x2hIHesKo=
 
-Name: res/drawable-mdpi-v4/xbid_x_icon.png
+Name: res/drawable-mdpi/xbid_x_icon.png
 SHA1-Digest: bTfAw9XtLevm9RqX8j0BI0ufntw=
 
-Name: res/drawable-xhdpi-v4/icon.png
+Name: res/drawable-xhdpi/icon.png
 SHA1-Digest: InWaqC6rJNbBU6uXm4AL1Dt+2Wc=
 
-Name: res/drawable-xhdpi-v4/iconvr.png
+Name: res/drawable-xhdpi/iconvr.png
 SHA1-Digest: InWaqC6rJNbBU6uXm4AL1Dt+2Wc=
 
-Name: res/drawable-xhdpi-v4/msa_add_icon.png
+Name: res/drawable-xhdpi/msa_add_icon.png
 SHA1-Digest: Xx4rxcr74ZNe5AHVXpjPZRhBUdU=
 
-Name: res/drawable-xhdpi-v4/msa_close_icon.png
+Name: res/drawable-xhdpi/msa_close_icon.png
 SHA1-Digest: 0sHKTIneNYH7y/s/NYjr43pMoJo=
 
-Name: res/drawable-xhdpi-v4/msa_default_user_tile.png
+Name: res/drawable-xhdpi/msa_default_user_tile.png
 SHA1-Digest: wdjZXzUkZsSLo6KseS776r4MpLc=
 
-Name: res/drawable-xhdpi-v4/msa_ms_logo.png
+Name: res/drawable-xhdpi/msa_ms_logo.png
 SHA1-Digest: iGUoRKIF5v1LW+Q+z67vlFanA1k=
 
-Name: res/drawable-xhdpi-v4/msa_overflow_menu.png
+Name: res/drawable-xhdpi/msa_overflow_menu.png
 SHA1-Digest: PZqKo5NfBhaOriWZcQrOyrPrJjk=
 
-Name: res/drawable-xhdpi-v4/xbid_gamerscore.png
+Name: res/drawable-xhdpi/xbid_gamerscore.png
 SHA1-Digest: zggWeCrRNe+OhwlV+lOg4kj9AEQ=
 
-Name: res/drawable-xhdpi-v4/xbid_search.png
+Name: res/drawable-xhdpi/xbid_search.png
 SHA1-Digest: b208MeBij+twe/N5VXF5roLmCcE=
 
-Name: res/drawable-xhdpi-v4/xbid_x_icon.png
+Name: res/drawable-xhdpi/xbid_x_icon.png
 SHA1-Digest: m4suet+iMU0XJf6iTppYMnzPH2U=
 
-Name: res/drawable-xxhdpi-v4/icon.png
+Name: res/drawable-xxhdpi/icon.png
 SHA1-Digest: OUHC9kiJ6XnzGB+GnZaTaRqweHk=
 
-Name: res/drawable-xxhdpi-v4/iconvr.png
+Name: res/drawable-xxhdpi/iconvr.png
 SHA1-Digest: OUHC9kiJ6XnzGB+GnZaTaRqweHk=
 
-Name: res/drawable-xxhdpi-v4/msa_add_icon.png
+Name: res/drawable-xxhdpi/msa_add_icon.png
 SHA1-Digest: vJLhRkr3N4ADt+h7JDEYZ8Hdl4k=
 
-Name: res/drawable-xxhdpi-v4/msa_close_icon.png
+Name: res/drawable-xxhdpi/msa_close_icon.png
 SHA1-Digest: 8Whvqbx1qpGbKQPNLGS19SnQ1BQ=
 
-Name: res/drawable-xxhdpi-v4/msa_ms_logo.png
+Name: res/drawable-xxhdpi/msa_ms_logo.png
 SHA1-Digest: lolUxYEA963DgymxRDiFZQZ+7e4=
 
-Name: res/drawable-xxhdpi-v4/xbid_gamerscore.png
+Name: res/drawable-xxhdpi/xbid_gamerscore.png
 SHA1-Digest: /kB45lqYYnjP5lmATQBKdS4wkB0=
 
-Name: res/drawable-xxhdpi-v4/xbid_search.png
+Name: res/drawable-xxhdpi/xbid_search.png
 SHA1-Digest: I99Qb3wO3CyYClC0kzPolTrZRtQ=
 
-Name: res/drawable-xxxhdpi-v4/icon.png
+Name: res/drawable-xxxhdpi/icon.png
 SHA1-Digest: BeDeM02dP60YHlR7SATTiX/UqRU=
 
-Name: res/drawable-xxxhdpi-v4/iconvr.png
+Name: res/drawable-xxxhdpi/iconvr.png
 SHA1-Digest: BeDeM02dP60YHlR7SATTiX/UqRU=
 
-Name: res/drawable-xxxhdpi-v4/msa_add_icon.png
+Name: res/drawable-xxxhdpi/msa_add_icon.png
 SHA1-Digest: gxMqlw2KAqmIgdWWrLI7BwAcMAY=
 
-Name: res/drawable-xxxhdpi-v4/msa_close_icon.png
+Name: res/drawable-xxxhdpi/msa_close_icon.png
 SHA1-Digest: PRfQ3uImuEbecIC0IksQ1X6nJCM=
 
-Name: res/drawable-xxxhdpi-v4/msa_ms_logo.png
+Name: res/drawable-xxxhdpi/msa_ms_logo.png
 SHA1-Digest: z3uq7mLYaAZs1kMja/uVwzcxYHA=
 
 Name: res/drawable/button.xml
@@ -4766,5 +4766,5 @@ Name: res/menu/action_dismiss_account_picker.xml
 SHA1-Digest: nKd9Rj4dH+b7bJ0B6rmNTLsklXo=
 
 Name: resources.arsc
-SHA1-Digest: EhjyAxv3iUUe/nBgxrMFUef6ZR8=
+SHA1-Digest: 1PkfgmDjjd5wTE9m76TF376j0B4=
 
