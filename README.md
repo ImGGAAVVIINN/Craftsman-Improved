@@ -3,6 +3,7 @@ Improve Craftsman Building Craft, a Minecraft knock-off game on Playstore. To ma
 ## Improvements
 ### Remove ads
 ### Consistence UI/Button Colour
+### Consistence Dirt/Grass types Texture
 ### Fixed panorama
 ### Add logo at main menu
 ## Change-logs
@@ -12,3 +13,5 @@ Changed App name so it is easier to spot the difference
 Fixed Panorama
 Added a logo to the main menu(title screen)
 Make buttons some blue to make the UI more consistence
+### V3
+Fixed Dirt and grass type texture consistency
