@@ -2843,7 +2843,7 @@ Name: assets/images/startup.images
 SHA1-Digest: pLSYZg6btuf6CRheIDED8CiULJk=
 
 Name: assets/images/terrain-atlas.tga
-SHA1-Digest: nubWyisc0/6e8uVg2RofQ3qHMNo=
+SHA1-Digest: MPTTQjiUdlguVY0Qd0Me7uo3I1c=
 
 Name: assets/images/terrain-atlas_mip0.tga
 SHA1-Digest: /8K5DNntdsvc4CNgmONHPukq/VQ=

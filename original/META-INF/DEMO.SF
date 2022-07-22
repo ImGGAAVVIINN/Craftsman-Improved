@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android)
-SHA1-Digest-Manifest: h+iUtJ5/cOJIshXCNqkZxH424LU=
+SHA1-Digest-Manifest: 0aSgdAVHtkrwNMBNSk6BGdRsS1w=
 X-Android-APK-Signed: 2, 3
 
 Name: AndroidManifest.xml
@@ -2846,7 +2846,7 @@ Name: assets/images/startup.images
 SHA1-Digest: oeNLLTw4F5TthL/NPUOe8PV+gmg=
 
 Name: assets/images/terrain-atlas.tga
-SHA1-Digest: xSBq+hMQxytLBvGKUEcS70zSbZw=
+SHA1-Digest: O5TxedhjhJfaJCUcUwFT0tXJ/fc=
 
 Name: assets/images/terrain-atlas_mip0.tga
 SHA1-Digest: o1ZThVm5oa17sFFe4VdoHumEFwk=
